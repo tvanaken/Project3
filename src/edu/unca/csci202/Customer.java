@@ -1,5 +1,10 @@
 package edu.unca.csci202;
 
+/**
+ * 
+ * @author Taylor Van Aken
+ *
+ */
 public class Customer {
 
 	private int items;
